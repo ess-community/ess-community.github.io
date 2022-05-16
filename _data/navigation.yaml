@@ -1,0 +1,23 @@
+- name:  About
+  link: /about/
+- name: Working Groups
+  link: /working-groups/
+  dropdown:
+    - name: Data Management
+      link: /working-groups/data-management
+    - name: Data Model Integration
+      link: /working-groups/integration
+    - name: Software Engineering and Interoperabilty
+      link: /working-groups/software-engineering
+    - name: Computing Resources
+      link: /working-groups/computing-resources
+- name: Events
+  link: /events/
+- name: Community Resources
+  dropdown:
+    - name: Reports
+      link: /resources/reports
+    - name: Webinars
+      link: /resources/seminar
+    - name: HPC Best Practices
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
