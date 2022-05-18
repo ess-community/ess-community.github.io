@@ -5,7 +5,7 @@ layout: page
 hero_image: /img/IDEAS-Watersheds-banner.jpg
 hero_height: is-small
 comments: false
-# show_sidebar: true
+show_sidebar: true
 # callouts: home_callouts
 ---
 
