@@ -2,7 +2,7 @@
 title: ESS Community
 subtitle: Building Community Cyberinfrastructure for Environmental System Science
 layout: page
-hero_image: /img/IDEAS-Watersheds-banner.jpg
+hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 comments: false
 show_sidebar: true
@@ -16,5 +16,5 @@ The community-driven cyberinfrastructure for Biological and Environmental Resear
 There will be integration of these working groups across the Department of Energy’s Terrestrial Ecosystem Science (TES) and Subsurface Biogeochemical Research (SBR) projects, with development in the broader Climate and Environmental Science Division (CESD) community and in external agencies.
 
 <p align="center">
-  <img width="500" src="/img/ESSWG_logo-1.jpeg">
+  <img width="800" src="/img/ESS-CIWG-big-picture-workflows.jpg">
 </p>
