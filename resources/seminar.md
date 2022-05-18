@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminars
-hero_image: /../img/IDEAS-Watersheds-banner.jpg
+hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: ESS PI Townhall 2019
 gallery: ess-pi-2019-townhall-gallery
-hero_image: /../img/IDEAS-Watersheds-banner.jpg
+hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 
