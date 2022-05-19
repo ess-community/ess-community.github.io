@@ -6,27 +6,71 @@ hero_image: /img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 
+## Mission / Objectives
 
-## Background / History
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<p align="center">
-  <img width="300" src="/img/ESSWG_logo-1.jpeg" align="right">
-</p>
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The working groups strive to enable all ESS projects, big or small, University or DOE-led to utilize common cyberinfrastructure tools and workflows in a culture of Open Science.
 
 ***
 
-## Mission / Objectives
+## Background
+
+<p align="center">
+  <img width="400" src="/img/ESSWG_logo-1.jpeg" align="right">
+</p>
+The ESS Cyberinfrastructure Working Groups (CIWGs) were formed in
+2016, based on recommendations of an exploratory workshop held in 2015
+that examined common cyberinfrastructure needs across a range of ESS
+projects.  The workshop report titled “Environmental System Science
+Workshop on Model-Data Integration: Modeling Frameworks, Data
+Management, and Scientific Workflows” has more details.  Based on this
+report we launched three working groups, 
+[Data Management](/working-groups/data-management), 
+[Model Data Integration](/working-groups/integration), and 
+[Software Engineering and
+Interoperability](/working-groups/software-engineering).  
+Since then we have regularly held an annual meeting, usually preceding the
+ESS PI Meeting that brought the members of the community together to
+explore opportunities and challenges for cyberinfrastructure that is
+needed to support ESS research.  These meetings proved to be very
+popular, increasing awareness and collaboration across projects, labs
+and agencies.  These meetings also introduced new ways of approaching
+these challenges, including the meeting in 2018 where staged a one-day
+design thinking challenge taught by Kate Maher and Matt Rothe from the
+Stanford Design Thinking Program.  We continue to use several
+techniques from this workshop throughout the development of our near
+and long-term goals as well as interagency collaborations.
+
+Shortly after we began, we drafted a vision paper based on the current
+status of cyberinfrastructure in ESS.  In particular, this report from
+2016, titled “Towards a Shared ESS Cyberinfrastructure: Vision and
+First Steps”, that focused on our gaps in data management and how
+addressing those gaps could support the long term goals of ModEx or
+the Virtual Laboratory.  Thus, the near and long-term vision focused
+on the need for an open and FAIR data archive with forward looking
+features that would eventually enable its seamless interaction with
+ModEx workflows for model data integration and analysis.  This report
+played an important role framing some of the features and
+characteristics of ESS-DIVE, which has emerged as our community’s
+primary open and FAIR data archive.
+
+Recently we began to work on a new white paper that would update this
+vision.  While we had hoped to finish that paper a year ago, we will
+strive to finish it this summer.  Thus far it is clear that new
+technologies and growing expectations for ESS science are creating new
+challenges.  To address those challenges we need continue to support
+existing efforts around Data Management and our collaborations with
+ESS-DIVE, and we need to expand our efforts in workflows around data
+model integration, including capabilities for new AI/ML approaches, as
+well as new data streams for input and evaluation, as well as more
+full archiving and utilizing output from models.  In addition, the
+rapidly increasing diversity and power of computing motivated the
+creation of a fourth working group on
+[Computing Infrastructure](/working-groups/computing-infrastructure).  
+This working group will ensure that we are addressing the increasingly diverse computing needs of the community, including edge computing, options for cloud services, support for mid-range high performance computing CPU-based systems, and the transition to heterogeneous CPU/GPU based systems.
 
 ***
 
 ## Working Group Leads
-
 
 ### Data Management
 
