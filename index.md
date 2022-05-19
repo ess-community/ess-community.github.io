@@ -9,15 +9,28 @@ show_sidebar: true
 # callouts: home_callouts
 ---
 
-# Creating a cyberinfrastructure that fully enables data management, cross-domain modeling, data analysis, and collaborative research to accelerate the iterative approach to scientific discovery.
+A flexible and open cyberinfrastructure is needed for our community to address the challenges  we face in advancing Environmental System Science (ESS).   Several of these challenges are highlighted in the image below.  The working groups strive to enable all ESS projects, big or small, University or DOE-led to utilize common cyberinfrastructure tools and workflows in a culture of Open Science. 
 
-The community-driven cyberinfrastructure for Biological and Environmental Research (BER) Environmental System Science (ESS) will be developed in phases by a dynamic and coordinated set of working groups with expertise in model development, data management, software engineering, and workflows for model-data integration.
+<figure>
+  <img src="/img/ESS-CIWG-big-picture-workflows.jpg" width=800>
+  <figcaption>
+  Cyberinfrastructure underlies the ModEx workflows shown schematically in this figure. Ensuring these workflows are open, accessible, and transferable for the ESS community to use in their research is an important part of the ESS CI Working Groups mission.
+  </figcaption>
+</figure>
 
-There will be integration of these working groups across the Department of Energy’s Terrestrial Ecosystem Science (TES) and Subsurface Biogeochemical Research (SBR) projects, with development in the broader Climate and Environmental Science Division (CESD) community and in external agencies.
+Incredible technological changes are driving key aspects of the challenges highlighted in the figure, and how we address them as a community, including
 
-Cyberinfrastructure refers to a wide 
+  * New instrumentation/data acquisition capabilities such as
+    distributed & fiber sensing, drones/remote sensing, 5G/satellite
+    internet are changing the flow and management of data.
+  * New technologies are available, such as Machine Learning, Big
+    Data, Cloud & Edge Computing, Internet of Things, next generation
+    CPU-GPU compute architectures.
+  * Exascale computing is currently underutilized in mechanistic
+    simulations, and there is limited use within ML workflows in our
+    community.
+  * Open Science by design should be embraced, for example, it will
+    help support Interagency efforts to develop model testbeds require
+    broader data sharing & model co-development
 
-
-<p align="center">
-  <img width="800" src="/img/ESS-CIWG-big-picture-workflows.jpg">
-</p>
+Join us in addressing these challenges as a community.
