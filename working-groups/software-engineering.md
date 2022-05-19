@@ -2,7 +2,7 @@
 layout: page
 title: Software Engineering and Interoperabilty
 hero_image: /img/ess-ciwg-banner.png
-hero_height: is_fullheight
+hero_height: is-small
 ---
 
 Software plays several critical roles in environmental system science,

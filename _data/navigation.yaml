@@ -1,16 +1,15 @@
 - name:  About
   link: /about/
 - name: Working Groups
-  link: /working-groups/
   dropdown:
     - name: Data Management
       link: /working-groups/data-management
-    - name: Data Model Integration
+    - name: Model Data Integration
       link: /working-groups/integration
     - name: Software Engineering and Interoperabilty
       link: /working-groups/software-engineering
-    - name: Computing Resources
-      link: /working-groups/computing-resources
+    - name: Computing Infrastructure
+      link: /working-groups/computing-infrastructure
 - name: Events
   link: /events/
 - name: Community Resources
