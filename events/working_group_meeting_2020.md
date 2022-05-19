@@ -5,9 +5,12 @@ hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 
-<h1 style="text-align:center;color:blue">Environmental System Science (ESS) Working Groups Annual Meeting Agenda</h1>
-
-<h2 style="text-align:center;color:blue">Virtual - May 11 and May 18, 2020</h2>
+<h1 style="text-align:center;color:rgb(24,142,172)"> 
+  Environmental System Science (ESS) Working Groups Annual Meeting 
+</h1>
+<h2 style="text-align:center;color:rgb(24,142,172)">
+  Virtual Meeting - May 11 and May 18, 2020
+</h2>
 
 # Motivation/Objectives
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -59,7 +62,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
   - [Early Career: Multi-Watershed Perturbation-Response Traits Derived Through Ecological Theory](/events/working_group_meeting_2020/session1/Stegen_ECA_ESS_CI_2020_v1.pdf) - James Stegen
 - Discussion (10 min)
 
-#### 12:30-1 EDT / 9:30-10 PDT: **Break A** (30 min)
+#### 12:30-1:00 EDT / 9:30-10 PDT: **Break A** (30 min)
 
  - Find Water Cooler Zoom Break rooms here.
   - There are 10 water coolers you can come and go from these.
@@ -69,7 +72,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
   - Sign your group up in the spreadsheet
   - ORISE organizers will add your names to a “Side Room” and you’ll get an e-mail invite.
 
-#### 1-2:30 EDT / 10-11:30 PDT: **Session 2** (1.5 hour)
+#### 1:00-2:30 EDT / 10:00-11:30 PDT: **Session 2** (1.5 hour)
 
 - [ESS-DIVE updates](/events/working_group_meeting_2020/session2/2020-05-11-ESS-DIVE-Overview+Standards-ESS-CI-Meeting.pdf) (70 min total)
   - ESS-DIVE Data Archive Update (15 min) - Deb Agarwal
@@ -87,7 +90,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
   - New investments in facilities - Lee Ann McCue, Douglas Mans, PNNL
   - Discussion (10 min)
 
-#### 2:30-3 EDT / 11:30-12 PDT: **Break B** (30 min)
+#### 2:30-3:00 EDT / 11:30-12:00 PDT: **Break B** (30 min)
 
 - Find Water Cooler Zoom Break rooms here.
   - There are 10 water coolers you can come and go from these.
@@ -97,7 +100,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
   - Sign your group up in the spreadsheet
   - ORISE organizers will add your names to a “Side Room” and you’ll get an e-mail invite.
 
-#### 3-4:30 EDT / 12-2:30 PDT: Session 3 (1.5 hour)
+#### 3:00-4:30 EDT / 12:00-2:30 PDT: Session 3 (1.5 hour)
 
 - Perspectives on the Working Groups and the new white paper (10 min)
   - An interview with Paul and Jay
@@ -115,7 +118,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
   - [FATES/NGEE Tropics](/events/working_group_meeting_2020/session3/koven_ess_cyberinfrastructure_meeting_fates.pdf) - Charlie Koven, Ryan Knox
 - Breakout plans and templates for collecting input and reporting out (20 min)
 
-#### 4:30-5 EDT / 2:30-3 PDT: **Discussion** (30 min)
+#### 4:30-5:00 EDT / 2:30-3:00 PDT: **Discussion** (30 min)
 
 ## Wednesday - Friday (at each group’s discretion - more on Monday)
 - Breakouts - by working group
@@ -128,7 +131,7 @@ Meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3
 
 Day 1 meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX1xg3y3SpuZcPtD7-VbiP).
 
-#### 12-2 EDT / 9-11 PDT: **Overview / Breakout working groups**
+#### 12:00-2:00 EDT / 9:00-11:00 PDT: **Overview / Breakout working groups**
 - Overview from last Monday and goals for today (10 min)
 - Breakout instructions (5 min)
 - Breakout working groups (1 hr 45 min)
@@ -140,12 +143,12 @@ Day 1 meeting recording is [here](https://drive.google.com/open?id=12YiFDvhD1JzX
 - This is our suggested destination for you, please e-mail us or make a note in the spreadsheet if you go to a different room. 
 - Side Rooms (for each breakout session) are on a Google Sheet here
 
-#### 2-2:30 EDT / 11-11:30 PDT: **Break**
+#### 2:00-2:30 EDT / 11:00-11:30 PDT: **Break**
 - Find Water Cooler Zoom Break rooms here.
   - There are 10 water coolers you can come and go from these.
   - We will put the password in the chat
 
-#### 2:30-4 EDT / 11:30-1 PDT: **Presentations / Summary / Wrap-Up**
+#### 2:30-4:00 EDT / 11:30-1:00 PDT: **Presentations / Summary / Wrap-Up**
 - Working Group Report Back Presentations + Discussion (10 + 10 min)
 - Wrap-up / Discussion + What’s Next  (30 min)
 

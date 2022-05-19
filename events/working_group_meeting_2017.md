@@ -5,9 +5,12 @@ hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 
-<h1 style="text-align:center;color:blue">Environmental System Science (ESS) Working Groups Kickoff</h1>
-
-<h2 style="text-align:center;color:blue">Bolger Center, Potomac MD, April 24, 2017</h2>
+<h1 style="text-align:center;color:rgb(24,142,172)"> 
+  Environmental System Science (ESS) Working Groups Annual Meeting 
+</h1>
+<h2 style="text-align:center;color:rgb(24,142,172)">
+  Bolger Center, Potomac MD, April 24, 2017
+</h2>
 
 ## Sunday, April 23
 

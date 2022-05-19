@@ -5,8 +5,8 @@ hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
 
-<h1 style="text-align:center;color:rgb(24,142,172)">
-  Environmental System Science (ESS) Working Groups Annual Meeting
+<h1 style="text-align:center;color:rgb(24,142,172)"> 
+  Environmental System Science (ESS) Working Groups Annual Meeting 
 </h1>
 <h2 style="text-align:center;color:rgb(24,142,172)">
   Bolger Center, Potomac MD, April 30, 2018
