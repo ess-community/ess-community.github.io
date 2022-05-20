@@ -17,6 +17,4 @@
     - name: Reports
       link: /resources/reports
     - name: Webinars
-      link: /resources/seminar
-    - name: HPC Best Practices
-      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+      link: /resources/webinars

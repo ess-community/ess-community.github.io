@@ -12,7 +12,7 @@ hero_height: is_fullheight
   * [2018](/events/working_group_meeting_2018)
   * [2019](/events/working_group_meeting_2019)
   * [2020](/events/working_group_meeting_2020)
-  * 2022 - upcoming
+  * [2022](/events/working_group_meeting_2022)
 
 
 ### Conferences
