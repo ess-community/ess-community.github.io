@@ -150,19 +150,25 @@ This working group will ensure that we are addressing the increasingly diverse c
 
 ## Executive Committee
 
-| Current        |
-| :---           |
-| Brandon Stark  |
-| Sansa Stark    |
-| Arya Stark     |
-| Jon Snow       |
+| Current                               |
+| :---                                  |
+| Deb Agarwal (LBNL)                    |
+| Xingyuan Chen (PNNL)                  |
+| Danielle Christianson (LBNL)          |
+| Ethan Coon (ORNL)                     |
+| Forrest Hoffman (ORNL)                |
+| David Moulton (Chair;LANL)            |
+| Eric Pierce (ORNL)                    | 
+| Terri Velliquette (ORNL)              |
+| Roelof Versteeg (Subsurface Insights) |
+| Stan Wullschleger (ORNL)              |
 
-| Emeritus      |
-| :---          |
-| Ned Stark     |
-| Catelyn Stark | 
-| Rob Stark     |
-| Rickon Stark  |
+| Emeritus                      |
+| :---                          |
+| Paul Hanson (ORNL)            |
+| Margaret Torn (LBNL)          |
+| Charuleka Varadharajan (LBNL) |
+| Dean Williams (LLNL)          |
 
 
 
