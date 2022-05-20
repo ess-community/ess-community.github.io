@@ -14,7 +14,11 @@ hero_height: is_fullheight
 
 <p><strong>Agenda</strong></p>
 <div>
-<table>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+    </colgroup>
 <tbody>
 <tr>
 <td>11:00-11:10</td>

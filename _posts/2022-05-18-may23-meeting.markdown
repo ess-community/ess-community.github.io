@@ -12,7 +12,11 @@ categories: jekyll update
 <p style="text-align: center;"><strong>11:00AM - 5:00PM (Times are Eastern Time, UTC/GMT -04:00)</strong></p>
 <p><strong>Agenda</strong></p>
 <div>
-<table>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+    </colgroup>
 <tbody>
 <tr>
 <td>11:00-11:10</td>
