@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working Group Meeting 2020
+title: Working Groups Annual Meeting 2022
 hero_image: /../img/ess-ciwg-banner.png
 hero_height: is_fullheight
 ---
