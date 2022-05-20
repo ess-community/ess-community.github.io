@@ -1,15 +1,17 @@
 ---
-layout: post
-title:  "Annual Meeting, May 23, 2022"
-# date:   2022-05-18 17:13:09 -0700
-hero_height: is-small
-categories: jekyll update
+layout: page
+title: Working Group Meeting 2020
+hero_image: /../img/ess-ciwg-banner.png
+hero_height: is_fullheight
 ---
 
-<p style="text-align: center;"><strong>ESS Cyberinfrastructure Working Groups Annual Meeting</strong></p>
+<h1 style="text-align:center;color:rgb(24,142,172)"> 
+  Environmental System Science (ESS) Working Groups Annual Meeting 
+</h1>
+<h2 style="text-align:center;color:rgb(24,142,172)">
+  Virtual Meeting - May 23, 2022
+</h2>
 
-<p style="text-align: center;"><strong>Virtual Meeting (Zoom), </strong><strong>May 23, 2022.</strong></p>
-<p style="text-align: center;"><strong>11:00AM - 5:00PM (Times are Eastern Time, UTC/GMT -04:00)</strong></p>
 <p><strong>Agenda</strong></p>
 <div>
 <table style="width: 100%">
@@ -96,8 +98,5 @@ categories: jekyll update
 </table>
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-
-
 
 
