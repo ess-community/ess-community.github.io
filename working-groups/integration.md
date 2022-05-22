@@ -23,7 +23,7 @@ models.
 
 <figure>
   <img width="400" src="/img/ModEx-wheel-Forrest.png" align=center>
-  <img width="400" src="/img/ModEx-flowchart-Peter.png" align=center>
+  <img width="400" src="/img/ModEx_Detailed_Version_v2_5-17-22.jpg" align=center>
   <figcaption>
   The ModEx cycle motivates the need for a common cyberinfrastructure that can provide
   flexible workflow and analysis capabilties to the community.
