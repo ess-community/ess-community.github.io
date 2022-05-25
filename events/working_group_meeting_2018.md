@@ -54,31 +54,97 @@ Evening - Informal side meetings as people arrive over a wide range of times.
 
 ## Monday, April 30
 
-- 8:30 - 8:35 **Welcome: BER perspective and goals**
-  - David Lesmes, Jay Hnilo, BER – CESD
+<div>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+    </colgroup>
+<tbody>
 
-- 8:35 - 9:00 **Overview of working groups, and working group activities**
-  - [Executive Committee updates](/events/working_group_meeting_2018/CESD-CIWG_Overview_2018.pdf) (David)
-  - [Software Engineering and Interoperability](/events/working_group_meeting_2018/CESD-CIWG_SE-Interoperability_2018.pdf) (David)
-  - [Model-Data Integration](/events/working_group_meeting_2018/CESD-CIWG_Model-Data-Integration_2018.pdf) (Forrest, Xingyuan)
-  - [Data Management](/events/working_group_meeting_2018/CESD-CIWG_Data-Management_2018.pdf) (Charu)
+<tr>
+<td>8:30 - 8:35</td>
+<td>Welcome: BER perspective and goals
+<ul>
+<li>David Lesmes, Jay Hnilo, BER – CESD</li>
+</ul>
+</td>
+</tr>
 
-- 9:00 - 10:00 **ESS-DIVE goes live!**
-  - [ESS-DIVE demo and discussion of future priorities](/events/working_group_meeting_2018/2018-05_ESS-DIVE_Cyberinfrastructure_Working_Group_Meeting.pdf). Deb Agarwal, Val Hendrix, Cory Snavely (LBNL)
+<tr>
+<td>8:35 - 9:00</td>
+<td>Overview of working groups, and working group activities
+<ul>
+<li><a href="/events/working_group_meeting_2018/CESD-CIWG_Overview_2018.pdf">Executive Committee updates</a> (David)</li>
+<li><a href="/events/working_group_meeting_2018/CESD-CIWG_SE-Interoperability_2018.pdf">Software Engineering and Interoperability</a> (David)</li>
+<li><a href="/events/working_group_meeting_2018/CESD-CIWG_Model-Data-Integration_2018.pdf">Model-Data Integration</a> (Forrest, Xingyuan)</li>
+<li><a href="/events/working_group_meeting_2018/CESD-CIWG_Data-Management_2018.pdf">Data Management</a> (Charu)</li>
+</ul>
+</td>
+</tr>
 
-- 10:30 - 10:45 **BREAK**
-  - Collaborative Design Challenge: Matthew Rothe and Kate Maher
+<tr>
+<td>9:00 - 10:00</td>
+<td>ESS-DIVE goes live!
+<ul>
+<li><a href="/events/working_group_meeting_2018/2018-05_ESS-DIVE_Cyberinfrastructure_Working_Group_Meeting.pdf">ESS-DIVE demo and discussion of future priorities</a>. Deb Agarwal, Val Hendrix, Cory Snavely (LBNL)</li>
+</ul>
+</td>
+</tr>
 
-- 10:45 – 12:00 Introduction to collaborative mindsets and best practices.
-  - (Stakeholder Engagement: 10:55-11:40)
+<tr>
+<td>10:30 - 10:45</td>
+<td>BREAK
+<ul>
+<li>Collaborative Design Challenge: Matthew Rothe and Kate Maher</li>
+</ul>
+</td>
+</tr>
 
-- 12:00 - 1:00 **LUNCH**
+<tr>
+<td>10:45 - 12:00</td>
+<td>Introduction to collaborative mindsets and best practices
+<ul>
+<li>(Stakeholder Engagement: 10:55-11:40)</li>
+</ul>
+</td>
+</tr>
 
-- 1:00 - 2:30 From theory to praxis. A rapid transition to making things that matter.
-  - (Stakeholder Engagement: 2:00-2:30)
+<tr>
+<td>12:00 - 1:00</td>
+<td>LUNCH
+</td>
+</tr>
 
-- 2:30 - 2:45 **BREAK**
+<tr>
+<td>1:00 - 2:30</td>
+<td> From theory to praxis. A rapid transition to making things that matter.
+<ul>
+<li>(Stakeholder Engagement: 2:00-2:30)</li>
+</ul>
+</td>
+</tr>
 
-- 2:45 - 5:00 Moving from insight to action. A super practical way to maintain the pursuit and momentum of new ideas and ways of working.
+<tr>
+<td>2:30 - 2:45</td>
+<td>BREAK
+</td>
+</tr>
 
-- 5:00 **Adjourn**
+<tr>
+<td>2:45 - 5:00</td>
+<td>Moving from insight to action. A super practical way to maintain the pursuit and momentum of new ideas and ways of working.
+</td>
+</tr>
+
+<tr>
+<td>5:00</td>
+<td>Adjourn
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
