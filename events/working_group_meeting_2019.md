@@ -33,52 +33,129 @@ Evening - Informal side meetings as people arrive over a wide range of times.
 
 ## Monday, April 29
 
-- 8:30 - 8:45 **Welcome: BER perspective and goals**
-  - Jay Hnilo, Paul Bayer, Sujata Emani - BER
+<div>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+    </colgroup>
+<tbody>
 
-- 8:45 - 9:00 **DOE ESS Cyberinfrastructure Working Groups: In case you missed it**
-  - [Data Management](/events/working_group_meeting_2019/intro/CESD-CIWG_Data-Management_2019.pdf) (Charuleka Varadharajan)
-  - [Model-Data Integration](/events/working_group_meeting_2019/intro/CESD-CIWG_Model-Data-Integration_2019.pdf) (Forrest Hoffman, Xingyuan Chen)
-  - [Software Engineering and Interoperability](/events/working_group_meeting_2019/intro/CESD-CIWG_SE-Interoperability_2019.pdf) (David Moulton)
+<tr>
+<td>8:30 - 8:45</td>
+<td>Welcome: BER perspective and goals
+<ul>
+<li>Jay Hnilo, Paul Bayer, Sujata Emani - BER</li>
+</ul>
+</td>
+</tr>
 
-- 9:00 - 10:30 **[ESS-DIVE Data Archive: Updates and Discussion on Community Funds $$$](/events/working_group_meeting_2019/intro/2019_CI_Meeting_ESS-DIVE_Data_Repository_Updates.pdf)** (Deb Agarwal and ESS-DIVE Team)
+<tr>
+<td>8:45 - 9:00</td>
+<td>DOE ESS Cyberinfrastructure Working Groups: In case you missed it
+<ul>
+<li><a href="/events/working_group_meeting_2019/intro/CESD-CIWG_Data-Management_2019.pdf">Data Management</a> (Charuleka Varadharajan)</li>
+<li><a href="/events/working_group_meeting_2019/intro/CESD-CIWG_Model-Data-Integration_2019.pdf">Model-Data Integration</a> (Forrest Hoffman, Xingyuan Chen)</li>
+<li><a href="/events/working_group_meeting_2019/intro/CESD-CIWG_SE-Interoperability_2019.pdf">Software Engineering and Interoperability</a> (David Moulton)</li>
+</ul>
+</td>
+</tr>
 
-- 10:30 - 10:45 **BREAK**
+<tr>
+<td>9:00 - 10:30</td>
+<td><a href="/events/working_group_meeting_2019/intro/2019_CI_Meeting_ESS-DIVE_Data_Repository_Updates.pdf">ESS-DIVE Data Archive: Updates and Discussion on Community Funds $$$</a> (Deb Agarwal and ESS-DIVE Team)
+</td>
+</tr>
 
-- 10:45 – 11:05 **[IDEAS: New Directions](/events/working_group_meeting_2019/intro/IDEAS-Watersheds-overview-v0.pdf)** (David Moulton and IDEAS team)
+<tr>
+<td>10:30 - 10:45</td>
+<td>BREAK
+</td>
+</tr>
 
-- 11:05 – 11:25 **[ILAMB, IOMB, RUBISCO Soil Carbon Dynamics Working Group](/events/working_group_meeting_2019/intro/Hoffman_ESS-Cyber-Infrastructure-ILAMB-IOMB-SoilC_20190429.pdf)** (Forrest Hoffman)
+<tr>
+<td>10:45 – 11:05</td>
+<td><a href="/events/working_group_meeting_2019/intro/IDEAS-Watersheds-overview-v0.pdf">IDEAS: New Directions</a> (David Moulton and IDEAS team)
+</td>
+</tr>
 
-- 11:30 - 12:00 **Discussion: Integration and archival of DOE model data** (WG chairs)
+<tr>
+<td>11:05 – 11:25</td>
+<td><a href="/events/working_group_meeting_2019/intro/Hoffman_ESS-Cyber-Infrastructure-ILAMB-IOMB-SoilC_20190429.pdf">ILAMB, IOMB, RUBISCO Soil Carbon Dynamics Working Group</a> (Forrest Hoffman)
+</td>
+</tr>
 
-- 12:00 – 1:00  **LUNCH (CONSIDER MINI-GROUP DISCUSSIONS DURING LUNCH)**
+<tr>
+<td>11:30 - 12:00</td>
+<td>Discussion: Integration and archival of DOE model data (WG chairs)
+</td>
+</tr>
 
-- 1:00 - 2:00 **DOE-Funded Cyberinfrastructure 5-min Flash Talks** (Moderator: Xingyuan Chen) What are different DOE-funded projects developing for managing, manipulating, and analyzing data and how they drive simulations at various scales
-  1. Danielle Christianson - [Ameriflux processing pipelines](/events/working_group_meeting_2019/flash/1_Christianson_CIworkshop2019.pdf)
-  2. Chris Henry - [KBase connectivity with ESS Cyberinfrastructure](/events/working_group_meeting_2019/flash/2_Henry-KBaseFlashSlides.pdf)
-  3. Kjierstan Fagnan - [National Microbiome Data Collaborative/JGI](/events/working_group_meeting_2019/flash/3_Fagnan_ESSCI_NMDC_flash_talk.pdf)
-  4. Dave Millard - [MyEMSL collaborations with ESS-DIVE and KBase](/events/working_group_meeting_2019/flash/4_Millard_EMSL_ESS-DIVE_collaboration_flash.pdf)
-  5. Ethan Coon and Dipankar Dwivedi - [ExaSheds](/events/working_group_meeting_2019/flash/5_Coon_ExaSheds_talk_DC_April28_2019_Dipankar.pdf)
-  6. Ben Sulman - [NGEE Arctic - E3SM/PFLOTRAN Liaison talk](/events/working_group_meeting_2019/flash/6_Sulman_E3SM-PFLOTRAN-Liaison_slides.pdf)
-  7. Roelof Versteeg - [Phase 1 SBIR](/events/working_group_meeting_2019/flash/7_cybermeeting_versteeg_flashtalk.pdf)
-  8. John Tourtellot - [Kitware Phase 1 SBIR](/events/working_group_meeting_2019/flash/8_Kitware-FromDataToModelsAndAnalytics.pdf)
-  9. Lightning 1-slide ads to invite more discussion
+<tr>
+<td>12:00 – 1:00</td>
+<td>LUNCH (CONSIDER MINI-GROUP DISCUSSIONS DURING LUNCH)
+</td>
+</tr>
 
-- 2:00 - 2:15 **BREAK**
+<tr>
+<td>1:00 - 2:00</td>
+<td>DOE-Funded Cyberinfrastructure 5-min Flash Talks (Moderator: Xingyuan Chen) What are different DOE-funded projects developing for managing, manipulating, and analyzing data and how they drive simulations at various scales
+<ol>
+<li>Danielle Christianson - <a href="/events/working_group_meeting_2019/flash/1_Christianson_CIworkshop2019.pdf">Ameriflux processing pipelines</a></li>
+<li>Chris Henry - <a href="/events/working_group_meeting_2019/flash/2_Henry-KBaseFlashSlides.pdf">KBase connectivity with ESS Cyberinfrastructure</a></li>
+<li>Kjierstan Fagnan - <a href="/events/working_group_meeting_2019/flash/3_Fagnan_ESSCI_NMDC_flash_talk.pdf">National Microbiome Data Collaborative/JGI</a></li>
+<li>Dave Millard - <a href="/events/working_group_meeting_2019/flash/4_Millard_EMSL_ESS-DIVE_collaboration_flash.pdf">MyEMSL collaborations with ESS-DIVE and KBase</a></li>
+<li>Ethan Coon and Dipankar Dwivedi - <a href="/events/working_group_meeting_2019/flash/5_Coon_ExaSheds_talk_DC_April28_2019_Dipankar.pdf">ExaSheds</a></li>
+<li>Ben Sulman - <a href="/events/working_group_meeting_2019/flash/6_Sulman_E3SM-PFLOTRAN-Liaison_slides.pdf">NGEE Arctic - E3SM/PFLOTRAN Liaison talk</a></li>
+<li>Roelof Versteeg - <a href="/events/working_group_meeting_2019/flash/7_cybermeeting_versteeg_flashtalk.pdf">Phase 1 SBIR</a></li>
+<li>John Tourtellot - <a href="/events/working_group_meeting_2019/flash/8_Kitware-FromDataToModelsAndAnalytics.pdf">Kitware Phase 1 SBIR</a></li>
+<li>Lightning 1-slide ads to invite more discussion</li>
+</ol>
+</td>
+</tr>
 
-- 2:15 – 3:30 **Interagency 10-min Flash Talks**  (Moderator: Charuleka Varadharajan)
+<tr>
+<td>2:00 - 2:15</td>
+<td>BREAK
+</td>
+</tr>
+
+<tr>
+<td>2:15 – 3:30</td>
+<td>Interagency 10-min Flash Talks  (Moderator: Charuleka Varadharajan)
 Cyberinfrastructure and Activities outside the DOE. Setting the stage for CI collaborations across institutions following an open science approach.
-  1. Dwayne Young - EPA Internet of Water
-  2. Tim Kern - USGS
-  3. Peter Arbuckle - USDA
-  4. Stuart Davies - STRI 
-  5. Lejo Flores - CUAHSI 
-  6. Matt Jones - DataONE
+<ol>
+<li>Dwayne Young - EPA Internet of Water</li>
+<li>Tim Kern - USGS</li>
+<li>Peter Arbuckle - USDA</li>
+<li>Stuart Davies - STRI </li>
+<li>Lejo Flores - CUAHSI </li>
+<li>Matt Jones - DataONE</li>
+</ol>
+</td>
+</tr>
 
-- 3:30 - 4:30 **Discussion: Opportunities for CI collaborative activities within DOE and interagency. New ideas and emphasis areas-(e.g., open cloud, open science?)** (WG chairs)
+<tr>
+<td>3:30 - 4:30</td>
+<td>Discussion: Opportunities for CI collaborative activities within DOE and interagency. New ideas and emphasis areas-(e.g., open cloud, open science?) (WG chairs)
+</td>
+</tr>
 
-- 4:30 - 5:00 **Discussion: Sustainability of the Working Groups - Next steps for the working groups and DOE Cyberinfrastructure development** (WG chairs)
+<tr>
+<td>4:30 - 5:00</td>
+<td>Discussion: Sustainability of the Working Groups - Next steps for the working groups and DOE Cyberinfrastructure development (WG chairs)
+</td>
+</tr>
 
-- 5:00 **Adjourn**
+<tr>
+<td>5:00</td>
+<td>Adjourn
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
