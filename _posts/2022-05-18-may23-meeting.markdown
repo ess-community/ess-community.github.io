@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annual Meeting, May 23, 2022"
-# date:   2022-05-18 17:13:09 -0700
+date:   2022-05-18
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: jekyll update
