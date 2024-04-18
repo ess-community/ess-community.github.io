@@ -14,7 +14,7 @@ hero_height: is_fullheight
   * [2020](/events/working_group_meeting_2020)
   * [2022](/events/working_group_meeting_2022)
   * [2023](/events/working_group_meeting_2023)
-  * 2024
+  * [2024](/events/working_group_meeting_2024)
 
 ### Conferences
   * AGU Town Hall 2016
