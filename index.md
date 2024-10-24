@@ -6,7 +6,7 @@ hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 comments: false
 show_sidebar: true
-# callouts: home_callouts
+# callouts: example_callouts
 ---
 
 A flexible and open cyberinfrastructure is needed for our community to address the challenges  we face in advancing Environmental System Science (ESS).   Several of these challenges are highlighted in the image below.  The working groups strive to enable all ESS projects, big or small, University or DOE-led to utilize common cyberinfrastructure tools and workflows in a culture of Open Science. 

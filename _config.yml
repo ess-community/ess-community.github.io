@@ -28,11 +28,12 @@ permalink: pretty
 favicon: favicon.png
 # twitter_username: jekyllrb
 # github_username:  jekyll
+port: 4001
 
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 # theme: moonwalk-master
 plugins:
   - jekyll-feed

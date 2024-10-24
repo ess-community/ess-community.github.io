@@ -1,13 +1,26 @@
 ---
 layout: post
 title:  "Annual Meeting, May 23, 2022"
-# date:   2022-05-18 17:13:09 -0700
+date:   2022-05-18
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
-categories: jekyll update
+categories: highlight
+is_series: true
+series_title: "Post"
 ---
 
 Thanks for your responses to our survey, they have helped shape the full agenda for this year's Virtual ESS Cyberinfrastructure Working Groups (CIWG) Annual Meeting. You can view the full Agenda on the meeting's
 [event page](/events/working_group_meeting_2022).
 
 Note the the meeting is scheduled to run from 11:00AM EDT to 5:00PM EDT with two half hour breaks.
+
+<br><br> **OLDER POSTS**
+{% if page.is_series == true %}
+{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' | reverse %}
+
+{% for post in posts %}
+        {% if post.url != page.url %}
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+        {% endif %}
+{% endfor %}
+{% endif %}
