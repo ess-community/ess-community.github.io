@@ -1,0 +1,23 @@
+<p class="title is-4">Get Involved</p>
+<div class="card">
+    <div class="card-content">
+        <div class="content">
+            Join the ESS Cyberinfrastructure Working Group community.
+        </div>
+        <div class="has-text-centered">
+            <a href="mailto:moulton@lanl.gov" class="button is-primary">Contact Us</a>
+        </div>
+    </div>
+</div>
+<br><br>
+<p class="title is-4">Latest Posts</p>
+<div class="columns is-multiline">
+    {% for post in site.posts limit:2 %}
+    <div class="column is-12">
+        {% include post-card.html %}
+    </div>
+    {% endfor %}
+</div>
+
+
+

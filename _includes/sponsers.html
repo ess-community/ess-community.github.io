@@ -1,0 +1,38 @@
+{% if page.sponsors %}
+{% assign tiers=site.data.[page.sponsors] %}
+    <div class="columns is-multiline">
+        {% for tier in tiers %}
+        <div class="column is-12">
+            <p class="title is-5">
+                <span>{{ tier.tier_name }}</span>
+            </p>
+                <div class="content">
+                    <p>{{ tier.description | markdownify }}</p>
+                </div>
+            </div>
+
+            <div class="columns is-multiline is-centered">
+                {% for sponsor in tier.sponsors %}
+                <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %}">
+                    <div class="box has-text-centered">
+                        <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
+                            {{ sponsor.name }}
+                        </p>
+                        <p class="subtitle is-6">
+                            {% if sponsor.profile %}
+                            <p> {{sponsor.profile}} </p>
+                            {% else %}
+                            &nbsp;
+                            {% endif %}
+                        </p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="column is-12">
+            <hr />
+        </div>
+        {% endfor %}
+    </div>
+{% endif %}

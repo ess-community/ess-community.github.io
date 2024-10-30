@@ -44,3 +44,5 @@ gem "kramdown-parser-gfm"
 
 # Theme.
 gem "bulma-clean-theme"
+
+gem "webrick", "~> 1.8"
