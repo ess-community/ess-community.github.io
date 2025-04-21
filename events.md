@@ -7,6 +7,7 @@ hero_height: is_fullheight
 ---
 
 ### Working Group Annual Meetings
+  * [2025](/events/working_group_meeting_2025)
   * [2024](/events/working_group_meeting_2024)
   * [2023](/events/working_group_meeting_2023)
   * [2022](/events/working_group_meeting_2022)
