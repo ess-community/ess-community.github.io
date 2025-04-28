@@ -124,7 +124,7 @@ to use online tools.
     <ul>
       <li>Speakers: </li>
         <ul>
-          <li><strong>JKjiersten Fagnan:</strong> How a BER Data Ecosystem Can Support Your Science and Our Mission</li>
+          <li><strong>Kjiersten Fagnan:</strong> How a BER Data Ecosystem Can Support Your Science and Our Mission</li>
           <li><strong>John Bargar:</strong> MONet Data Integration Use Cases</li>
         </ul>
       <li>Group Discussion:</li>
