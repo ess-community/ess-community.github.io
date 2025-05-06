@@ -45,7 +45,7 @@ ensure both in person and virtual participants can contribute effectively to the
 discussions and outcomes. In person participants are expected to bring a laptop
 to use online tools.
 
-<!-- <button class="button button1"> <a href="/events/working_group_meeting_2025/ESS-CIWG_AnnualMeeting-recap_2025-v3.pdf" style="color:white;">Meeting Highlights</a></button> -->
+<button class="button button1"> <a href="/events/working_group_meeting_2025/ESS-CIWG_AnnualMeeting-recap_2025-v3.pdf" style="color:white;">Meeting Re-Cap</a></button>
 
 <p><h3><strong>Agenda</strong></h3></p>
 <div>
