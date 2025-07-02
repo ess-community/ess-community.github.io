@@ -45,10 +45,10 @@ education and training.  To this end, the SEI working group explores
 <em>Los Alamos National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/coon.jpeg" alt="Ethan Coon" width="150" height="150"></td>
-<td valign="top"><strong>Ethan Coon</strong><br />
-<a href = "mailto: coonet@ornl.gov">coonet@ornl.gov</a><br />
-<em>Oak Ridge National Laboratory</em></td>
+<td><img class="alignleft" src="/img/people/lemieux.png" alt="Greg Lemieux" width="150" height="150"></td>
+<td valign="top"><strong>Greg Lemieux</strong><br />
+<a href = "mailto: glemieux@lbl.gov">glemieux@lbl.gov</a><br />
+<em>Lawrence Berkley National Laboratory</em></td>
 </tr>
 </tbody>
 </table>
