@@ -123,16 +123,16 @@ This working group will ensure that we are addressing the increasingly diverse c
 <em>Los Alamos National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/coon.jpeg" alt="Ethan Coon" width="150" height="150"></td>
-<td valign="top"><strong>Ethan Coon</strong><br />
-<a href = "mailto: coonet@ornl.gov">coonet@ornl.gov</a><br />
-<em>Oak Ridge National Laboratory</em></td>
+<td><img class="alignleft" src="/img/people/lemieux.png" alt="Greg Lemieux" width="150" height="150"></td>
+<td valign="top"><strong>Greg Lemieux</strong><br />
+<a href = "mailto: glemieux@lbl.gov">glemieux@lbl.gov</a><br />
+<em>Lawrence Berkley National Laboratory</em></td>
 </tr>
 </tbody>
 </table>
 
 
-### Computing Resources
+### Computing Infrastructure
 
 <table>
 <tbody>
@@ -145,6 +145,35 @@ This working group will ensure that we are addressing the increasingly diverse c
 </tbody>
 </table>
 
+### AI Working Group
+
+<table>
+<tbody>
+<tr>
+<td><img class="alignleft" src="/img/people/chen.jpeg" alt="Xingyuan Chen" width="150" height="150"></td>
+<td valign="top"><strong>Xingyuan Chen</strong><br />
+<a href = "mailto: Xingyuan.Chen@pnnl.gov">Xingyuan.Chen@pnnl.gov</a><br />
+<em>Pacific Northwest National Laboratory</em></td>
+</tr>
+<tr>
+<td><img class="alignleft" src="/img/people/weisenhorn.jpeg" alt="Pamela Weisenhorn" width="150" height="150"></td>
+<td valign="top"><strong>Pamela Weisenhorn</strong><br />
+<em>Argonne National Laboratory</em></td>
+</tr>
+<tr>
+<td><img class="alignleft" src="/img/people/gomez.jpg" alt="Jesus Gomez" width="150" height="150"></td>
+<td valign="top"><strong>Jesus Gomez</strong><br />
+<a href = "mailto: gomezvelezjd@ornl.gov">gomezvelezjd@ornl.gov</a><br />
+<em>Oak Ridge National Laboratory</em></td>
+</tr>
+<tr>
+<td><img class="alignleft" src="/img/people/dwivedi.jpg" alt="Dipankar Dwivedi " width="150" height="150"></td>
+<td valign="top"><strong>Dipankar Dwivedi </strong><br />
+<a href = "mailto: ddwivedi@lbl.gov">ddwivedi@lbl.gov</a><br />
+<em>Lawrence Berkley National Laboratory</em></td>
+</tr>
+</tbody>
+</table>
 
 ***
 
@@ -152,16 +181,15 @@ This working group will ensure that we are addressing the increasingly diverse c
 
 | Current                               |
 | :---                                  |
-| Deb Agarwal (LBNL)                    |
 | Xingyuan Chen (PNNL)                  |
 | Danielle Christianson (LBNL)          |
-| Ethan Coon (ORNL)                     |
 | Forrest Hoffman (ORNL)                |
 | David Moulton (Chair;LANL)            |
 | Eric Pierce (ORNL)                    | 
 | Terri Velliquette (ORNL)              |
 | Roelof Versteeg (Subsurface Insights) |
-| Stan Wullschleger (ORNL)              |
+| Greg Lemieux (LBNL)                   |
+
 
 | Emeritus                      |
 | :---                          |
@@ -169,6 +197,9 @@ This working group will ensure that we are addressing the increasingly diverse c
 | Margaret Torn (LBNL)          |
 | Charuleka Varadharajan (LBNL) |
 | Dean Williams (LLNL)          |
+| Deb Agarwal (LBNL)            |
+| Stan Wullschleger (ORNL)      |
+| Ethan Coon (ORNL)             |
 
 
 
