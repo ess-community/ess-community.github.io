@@ -184,12 +184,15 @@ This working group will ensure that we are addressing the increasingly diverse c
 | :---                                  |
 | Xingyuan Chen (PNNL)                  |
 | Danielle Christianson (LBNL)          |
+| Dipankar Dwivedi (LBNL)               |
+| Jesus Gomez (ORNL)                    |
 | Forrest Hoffman (ORNL)                |
-| David Moulton (Chair;LANL)            |
+| Greg Lemieux (LBNL)                   |
+| David Moulton (Chair; LANL)            |
 | Eric Pierce (ORNL)                    | 
 | Terri Velliquette (ORNL)              |
 | Roelof Versteeg (Subsurface Insights) |
-| Greg Lemieux (LBNL)                   |
+| Pamela Weisenhorn (ANL)               |
 
 
 | Emeritus                      |
