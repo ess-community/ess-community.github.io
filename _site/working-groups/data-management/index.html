@@ -42,75 +42,119 @@
     <body>
         
         <nav class="navbar is-primary " x-data="{ openNav: false }">
-    <div class="container">
-        <div class="navbar-brand">
-            <a href="/" class="navbar-item">
-                ESS_CIWG
-            </a>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
-            <div class="navbar-start">
-
-                
-                
-                    
-                    <a href="/about/" class="navbar-item ">About</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Working Groups</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/working-groups/data-management" class="navbar-item ">Data Management</a>
-                            
-                            <a href="/working-groups/integration" class="navbar-item ">Model Data Integration</a>
-                            
-                            <a href="/working-groups/software-engineering" class="navbar-item ">Software Engineering and Interoperabilty</a>
-                            
-                            <a href="/working-groups/computing-infrastructure" class="navbar-item ">Computing Infrastructure</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                    
-                    <a href="/events/" class="navbar-item ">Events</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Community Resources</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/resources/reports" class="navbar-item ">Reports</a>
-                            
-                            <a href="/resources/webinars" class="navbar-item ">Webinars</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                
-            </div>
-
-            <!-- <div class="navbar-end">
-                <div class="navbar-item">
-                    <div class="buttons">
-                        <a href="mailto:moulton@lanl.gov" class="button is-light"><strong>Get Involved</strong></a>
-                    </div>
-                </div>
-            </div> -->
-
-        </div>
+  <div class="container">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item">
+        ESS_CIWG
+      </a>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu"
+         :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
-</nav>
 
+    <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+      <div class="navbar-start">
+
+        
+          
+            
+              <a href="/about/"
+                 class="navbar-item ">
+                About
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Working Groups
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/working-groups/data-management"
+                       class="navbar-item ">
+                      Data Management
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/integration"
+                       class="navbar-item ">
+                      Model Data Integration
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/software-engineering"
+                       class="navbar-item ">
+                      Software Engineering and Interoperability
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/computing-infrastructure"
+                       class="navbar-item ">
+                      Computing Infrastructure
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/ai-ml"
+                       class="navbar-item ">
+                      AI/ML
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+              <a href="/events/"
+                 class="navbar-item ">
+                Events
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Community Resources
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/resources/reports"
+                       class="navbar-item ">
+                      Reports
+                    </a>
+
+                    
+                  
+                    <a href="/resources/webinars"
+                       class="navbar-item ">
+                      Webinars
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+        
+
+      </div>
+    </div>
+  </div>
+</nav>
         
             <section class="hero  is-small  is-bold is-primary"  style="background: url('/img/ess-ciwg-banner.png') no-repeat center center; background-size: cover;" >
     <div class="hero-body ">
@@ -142,42 +186,41 @@
 
                         
 <div class="content">
-    <p>Data Management is central to virtually all aspects of Environmental
-System Science and the ModEx cycle. Specifically it must provide tools
-and workflows that support the archival of rapidly growing diverse
-data streams from the field, informing model representations with
-archived data, as well as workflows for model data integration and
-analysis.  ESS-DIVE envisions becoming the repository of choice for
-archiving data generated by ESS projects, enabling the use of data in
-support of the DOE’s Data-Model Integration Grand Challenge and
-Virtual Laboratory vision (U.S. DOE 2018, U.S. DOE 2015) and
-ultimately knowledge generation.  However, assessing the data
-management needs and priorities of the community is challenging, yet
-it must drive priorities in ESS-DIVE development.  The objective of
-the <strong>Data Management (DM) working group</strong> is to work with the ESS
-Community to ensure their short and long-term needs are met by
-ESS-DIVE in conjunction with other archival and distribution services,
-such as ESGF.  Thus the DM working group will explore</p>
+    <p><strong>Data Management (DM) Working Group</strong> addresses data needs of the ESS Community:</p>
 
 <ul>
   <li>Data Preservation, Sharing, and Publication</li>
   <li>Common Data and Metadata Standards</li>
   <li>Data Citation and Attribution</li>
   <li>Data Federation across different data catalogs</li>
-  <li>Data Synthesis across ESS and other relevant Datasets</li>
+  <li>Data Synthesis across ESS and other relevant data sources</li>
   <li>Development of common Tools for data usage</li>
-  <li>QA/QC, processing, analysis, mining and visualization data to prepare them for use in new research projects.</li>
+  <li>QA/QC, processing, analysis, mining and visualizing data to prepare them for use, especially in new research applications such as AI.</li>
 </ul>
+
+<p>The <strong>Data Management Working Group</strong> collaborates with members of the ESS Community 
+by providing opportunities to interact with each other through quarterly and annual 
+meetings to ensure their short and long-term needs are met at ESS-DIVE and other DOE 
+data type specific repositories (i.e. ESGF, EMSL, JGI, AmeriFlux). The opportunity for 
+cross-project/institution/discipline interaction of our many forward-looking members 
+is invaluable since data management is central to virtually all aspects of Environmental 
+System Science and the ModEx cycle. By establishing shared, standard tools and workflows, 
+the archival of the rapidly-growing, diverse data is facilitated. These archived data 
+will inform model representations of environmental systems, and the model results and 
+analyses should guide future data collections. Towards these goals, ESS-DIVE is the primary 
+repository for archiving data generated by ESS projects following the guidance and 
+requirements of the <a href="https://doi.org/10.11578/2023DOEPublicAccessPlan">2023 DOE Public Access Plan</a>
+and the DOE Office of Science <a href="https://science.osti.gov/Funding-Opportunities/Digital-Data-Management">Statement on Digital Management</a>.</p>
 
 <h1 id="data-management-leads">Data Management Leads</h1>
 
 <table>
 <tbody>
 <tr>
-<td><img class="alignleft" src="/img/people/christianson.jpeg" alt="Danielle Christianson" width="150" height="150" /></td>
-<td valign="top"><strong>Danielle Christianson</strong><br />
+<td><img class="alignleft" src="/img/people/christianson.jpeg" alt="Danielle Svehla Christianson" width="150" height="150" /></td>
+<td valign="top"><strong>Danielle Svehla Christianson</strong><br />
 <a href="mailto: dschristianson@lbl.gov">dschristianson@lbl.gov</a><br />
-<em>Lawrence Berkeley Laboratory</em></td>
+<em>Lawrence Berkeley National Laboratory</em></td>
 </tr>
 <tr>
 <td><img class="alignleft" src="/img/people/velliquette.jpeg" alt="Terri Velliquette" width="150" height="150" /></td>
@@ -189,6 +232,52 @@ such as ESGF.  Thus the DM working group will explore</p>
 </table>
 
 <p>Want to contribute? Ask the leads to join the Google Group: ess-community-dm@googlegroups.com</p>
+
+<h1 id="quarterly-meetings">Quarterly Meetings</h1>
+
+<p>The DM WG holds quarterly meetings in the 2nd month of the business quarter on 
+the 4th Thursday at 12:00 PT / 3:00 ET (unless rescheduled due to holidays/conflicts).</p>
+
+<p>Past meeting topic and session leaders:</p>
+
+<h3 id="fy2025">FY2025</h3>
+<p>Q3: ML/LLM/AI/Agentic-AI Working Group discussion
+<br />David Moulton (LANL)</p>
+
+<p>Q2: Experiences &amp; Improvements to Archiving Model Data Products
+<br />Zhi Li (PNNL), Rosemary Carroll (Desert Research Institute)</p>
+
+<p>Q1: ESS-DIVE Annual Data Workshop: Needs for ESS data discovery &amp; use
+<br />Danielle Christianson (LBNL), Terri Velliquette (ORNL)</p>
+
+<h3 id="fy2024">FY2024</h3>
+<p>Q4: Tools for implementing Reporting Formats (continued) 
+<br />Tom Ruggles, Terri Velliquette, (ORNL), Sigrid Dengel (LBNL) , Dylan O’Ryan (LBNL)</p>
+
+<p>Q3: Tools for implementing Reporting Formats
+<br />Gilberto Pastorello, Valerie Hendrix (LBNL), Brieanne Forbes, Amy Goldman (PNNL)</p>
+
+<p>Q2: BERAC Unified Data Report &amp; ESS-DIVE proposal input
+<br />Pamela Weisenhorn (ANL), Kjiersten Fagnan, Charu Varadharajan (LBNL)</p>
+
+<p>Q1: NMDC submission portal &amp; EMSL metadata template
+<br />Montana Smith (PNNL)</p>
+
+<h3 id="fy2023">FY2023</h3>
+<p>Q4: Data integration brainstorming for BERAC Unified Data RFI
+<br />Kjiersten Fagnan, Danielle Christianson (LBNL)</p>
+
+<p>Q3: ESS CI Annual Mtg follow up / BERAC Unified Data RFI
+<br />Kjiersten Fagnan (LBNL)</p>
+
+<p>Q2: Valuing Data and Software as Scientific Products
+<br />Pamela Weisenhorn (ANL), Tim Scheibe (PNNL)</p>
+
+<p>Q1: ESS-DIVE Community Reporting Formats
+<br />Charuleka Varadharajan, Joan Damerow, Emily Robles (LBNL)</p>
+
+<h3 id="fy2022">FY2022</h3>
+<p>Q4: Kickoff! Planning &amp; topic selection</p>
 
 </div>
                     </div>
