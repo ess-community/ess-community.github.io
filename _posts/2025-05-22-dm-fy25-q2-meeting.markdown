@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Annual Meeting, May 23, 2022"
-date:   2022-05-18
+title:  "Data Management FY25 Q2 Quarterly Meeting"
+date:   2025-05-22
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,10 +9,10 @@ is_series: true
 series_title: "Post"
 ---
 
-Thanks for your responses to our survey, they have helped shape the full agenda for this year's Virtual ESS Cyberinfrastructure Working Groups (CIWG) Annual Meeting. You can view the full Agenda on the meeting's
-[event page](/events/working_group_meeting_2022).
+2025 Second Quarterly Meeting
+<br>Date/Time: Thursday, May 22, 12-1pm PT/3-4pm ET
 
-Note the the meeting is scheduled to run from 11:00AM EDT to 5:00PM EDT with two half hour breaks.
+Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}
