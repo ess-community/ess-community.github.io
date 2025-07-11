@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Management FY25 Q4 Quarterly Meeting"
+title:  "Data Management FY25 Q3 Quarterly Meeting"
 date:   2025-07-11
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
@@ -10,7 +10,7 @@ series_title: "Post"
 ---
 
 Topic: What is AI-Ready Data?
-<br>Date/Time: Thursday, Aug 28, 12-1pm PT/3-4pm ET
+<br>Date/Time: Thursday, July 11, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 

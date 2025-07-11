@@ -9,7 +9,7 @@ is_series: true
 series_title: "Post"
 ---
 
-2024 Third Quarterly Meeting
+Title: Tools for Implementing Reporting Formats
 <br>Date/Time: Thursday, Aug 22, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.

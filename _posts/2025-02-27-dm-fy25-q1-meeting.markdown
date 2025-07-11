@@ -9,7 +9,7 @@ is_series: true
 series_title: "Post"
 ---
 
-2024 First Quarterly Meeting
+Title: ESS-DIVE Annual Data Workshop: Needs for ESS Data Discovery and Use
 <br>Date/Time: Thursday, Feb 27, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
