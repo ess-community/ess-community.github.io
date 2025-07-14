@@ -3044,3 +3044,9 @@ div.highlight { margin-bottom: 1rem; }
 .block-list.is-danger li.is-highlighted, .block-list.is-danger.is-highlighted > li { background: transparent; color: #f14668; border: 1px solid #f14668; border-left: 5px #f14668 solid; }
 
 .gh-sponsor { color: #ea4aaa; }
+
+/* indent any sub-items inside a dropdown */
+.navbar-dropdown .navbar-item.is-subitem { padding-left: 2rem; /* push it over */ font-size: 0.9em; /* slightly smaller */ opacity: 0.9; /* optional subtle dim */ }
+
+/* (optional) add a tiny separator above each group of sub-items */
+.navbar-dropdown .navbar-item.is-subitem:first-of-type { margin-top: 0.25rem; border-top: 1px solid #eaeaea; }

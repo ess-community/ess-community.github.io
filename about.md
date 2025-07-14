@@ -158,6 +158,7 @@ This working group will ensure that we are addressing the increasingly diverse c
 <tr>
 <td><img class="alignleft" src="/img/people/weisenhorn.jpeg" alt="Pamela Weisenhorn" width="150" height="150"></td>
 <td valign="top"><strong>Pamela Weisenhorn</strong><br />
+<a href = "mailto: pweisenhorn@anl.gov">pweisenhorn@anl.gov</a><br />
 <em>Argonne National Laboratory</em></td>
 </tr>
 <tr>
@@ -183,12 +184,15 @@ This working group will ensure that we are addressing the increasingly diverse c
 | :---                                  |
 | Xingyuan Chen (PNNL)                  |
 | Danielle Christianson (LBNL)          |
+| Dipankar Dwivedi (LBNL)               |
+| Jesus Gomez (ORNL)                    |
 | Forrest Hoffman (ORNL)                |
-| David Moulton (Chair;LANL)            |
+| Greg Lemieux (LBNL)                   |
+| David Moulton (Chair; LANL)            |
 | Eric Pierce (ORNL)                    | 
 | Terri Velliquette (ORNL)              |
 | Roelof Versteeg (Subsurface Insights) |
-| Greg Lemieux (LBNL)                   |
+| Pamela Weisenhorn (ANL)               |
 
 
 | Emeritus                      |

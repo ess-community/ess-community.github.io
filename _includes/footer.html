@@ -1,0 +1,26 @@
+<footer class="footer">
+    <div class="container">
+
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column is-small has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        <p style="text-align:center;">
+            <!-- <a href="https://ideas-watersheds.github.io"><img src="/img/IDEAS_watershed-logo_blueText.png" alt="IDEAS-Watersheds" width="150"></a>
+            </p> -->
+        <div class="content is-small has-text-centered">
+            <p><a href="https://science.osti.gov/ber/Research/eessd">Earth and Environmental Systems Sciences Division</a> of the U.S. Department of Energy’s <a href="https://science.osti.gov/ber">Office of Biological and Environmental Research</a>.</p>
+       </div>
+
+        <!-- <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div> -->
+    </div>
+</footer>

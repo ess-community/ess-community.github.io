@@ -42,75 +42,119 @@
     <body>
         
         <nav class="navbar is-primary " x-data="{ openNav: false }">
-    <div class="container">
-        <div class="navbar-brand">
-            <a href="/" class="navbar-item">
-                ESS_CIWG
-            </a>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
-            <div class="navbar-start">
-
-                
-                
-                    
-                    <a href="/about/" class="navbar-item ">About</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Working Groups</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/working-groups/data-management" class="navbar-item ">Data Management</a>
-                            
-                            <a href="/working-groups/integration" class="navbar-item ">Model Data Integration</a>
-                            
-                            <a href="/working-groups/software-engineering" class="navbar-item ">Software Engineering and Interoperabilty</a>
-                            
-                            <a href="/working-groups/computing-infrastructure" class="navbar-item ">Computing Infrastructure</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                    
-                    <a href="/events/" class="navbar-item ">Events</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Community Resources</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/resources/reports" class="navbar-item ">Reports</a>
-                            
-                            <a href="/resources/webinars" class="navbar-item ">Webinars</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                
-            </div>
-
-            <!-- <div class="navbar-end">
-                <div class="navbar-item">
-                    <div class="buttons">
-                        <a href="mailto:moulton@lanl.gov" class="button is-light"><strong>Get Involved</strong></a>
-                    </div>
-                </div>
-            </div> -->
-
-        </div>
+  <div class="container">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item">
+        ESS_CIWG
+      </a>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu"
+         :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
-</nav>
 
+    <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+      <div class="navbar-start">
+
+        
+          
+            
+              <a href="/about/"
+                 class="navbar-item ">
+                About
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Working Groups
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/working-groups/data-management"
+                       class="navbar-item ">
+                      Data Management
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/integration"
+                       class="navbar-item ">
+                      Model Data Integration
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/software-engineering"
+                       class="navbar-item ">
+                      Software Engineering and Interoperability
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/computing-infrastructure"
+                       class="navbar-item ">
+                      Computing Infrastructure
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/ai-ml"
+                       class="navbar-item ">
+                      AI/ML
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+              <a href="/events/"
+                 class="navbar-item ">
+                Events
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Community Resources
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/resources/reports"
+                       class="navbar-item ">
+                      Reports
+                    </a>
+
+                    
+                  
+                    <a href="/resources/webinars"
+                       class="navbar-item ">
+                      Webinars
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+        
+
+      </div>
+    </div>
+  </div>
+</nav>
         
             <section class="hero  is_fullheight  is-bold is-primary"  style="background: url('/../img/ess-ciwg-banner.png') no-repeat center center; background-size: cover;" >
     <div class="hero-body ">
@@ -142,50 +186,112 @@
 
                         
 <div class="content">
-    <h1 id="reports-from-the-working-groups">Reports from the Working Groups</h1>
+    <style>
+  .report-table {
+    table-layout: fixed;
+    width: 100%;            /* or whatever total width you want */
+    border-collapse: collapse;
+  }
+  .report-table img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* define first column as 400px, second fills the rest */
+  .report-table col:nth-child(1) { width: 15%; }
+  .report-table col:nth-child(2) { width: auto; }
+  /* optional: give your text cell some padding */
+  .report-table td { padding: 0.5em; vertical-align: top; }
+</style>
 
-<table>
-<tbody>
-<tr>
-<td>  <a href="/reports/BERAC-Subcommittee-report-on-Unified-Data-May-2024.pdf"><img width="400" src="/reports/BERAC-Subcommittee-report-on-Unified-Data-May-2024-cover.jpg " border="2" /></a></td>
-<td valign="center">
-This report derives from a October 2022 request for information on the Biological and Environmental Research (BER) program within the U.S. Department of Energy (DOE) Office of Science which supports large-scale data generation efforts across its two divisions: Biological Systems Science and Earth and Environmental Systems Sciences. The review was presented at the Fall BERAC meeting in 2023 and helped to secure future funding.
-</td>
-</tr>
-<td>  <a href="/reports/AI4CH4_Workshop_Report.pdf"><img width="400" src="/reports/AI4CH4_Workshop_Report-cover.jpg " border="2" /></a></td>
-<td valign="center">
-This report derives from the March 2023 Artificial Intelligence for the Methane Cycle (AI4CH4) virtual work-shop, co-organized by staff from the Earth and Environmental Systems Sciences Division (EESSD), within the U.S. Department of Energy Biological and Environmental Research program (BER), and computational ecologist Dr. Pamela Weisenhorn from Argonne National Laboratory. AI4CH4 provides a follow-up to the 2021 Artificial Intelligence for Earth System Predictability workshop series (ai4esp.org) co-organized by two DOE programs—BER and Advanced Scientific Computing Research (ASCR).
-</td>
-<tr>
-<td>  <a href="/reports/AMBER_High_Res.pdf"><img width="400" src="/reports/AMBER_High_Res-cover.jpg " border="2" /></a></td>
-<td valign="center">
-This report derives from a joint virtual workshop on AI/ML for Bioenergy Research (AMBER) in August 2022. To identify the opportunities and challenges in the integration of artificial intelligence and machine learning (AI/ML) with automated experimentation, genomics, biosystems design, and bioprocessing technologies, particularly in bioenergy research.  
-</td>
-</tr>
-<tr>
-<td>  <a href="/reports/EVS_AI4ESP_Executive_Summary.pdf"><img width="400" src="/reports/EVS_AI4ESP_Executive_Summary-cover.jpg " border="2" /></a></td>
-<td valign="center">
-In October 2021, the U.S. Department of Energy (DOE) welcomed participants to the Artificial Intelligence for Earth System Predictability (AI4ESP) Workshop, hosted by the Office of Biological and Environmental Research (BER)—Advanced Scientific Computing Research (ASCR).
-<br /><br />
-A distinguishing aspect of this workshop was the framing around BER’s “Model-Experimentation” (ModEx) integrative research process, which involves integrating observations, experiments, and measurements, performed in the field or laboratory, with model research that simulates these same processes.
-</td>
-</tr>
-<tr>
-<td>  <a href="/reports/ESSWG_WorkshopReport-final.pdf"><img width="400" src="/reports/ESSWG_WorkshopReport-cover.png " border="2" /></a></td>
-<td valign="center">
-The report from a one day meeting, which was held in 2015, to explore approaches to building a community driven and shared cyberinfrastructure for Environmental System Science.
-</td>
-</tr>
-<tr>
-<td>  <a href="/reports/Towards_a_Shared_ESS_Cyberinfrastructure-final.pdf"><img width="400" src="/reports/Towards_a_Shared_ESS_Cyberinfrastructure-cover.png" border="2" /></a></td>
-<td valign="center"> 
-A one day meeting of the Executive Committee was held in 2016 to identify challenges and gaps in data archival for the ESS Community.  The report details these gaps and presents a vision and approach for providing these critical services to the community, and advancing a shared community cyberinfrastructure.
-</td>
-</tr>
-</tbody>
+<h1 id="reports-from-the-working-groups">Reports from the Working Groups</h1>
+
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/Towards_a_Shared_ESS_Cyberinfrastructure-final.pdf"><img width="400" src="/reports/Towards_a_Shared_ESS_Cyberinfrastructure-cover.png" border="2" /></a></td>
+	<td valign="center"> 
+	A one day meeting of the Executive Committee was held in 2016 to identify challenges and gaps in data archival for the ESS Community.  The report details these gaps and presents a vision and approach for providing these critical services to the community, and advancing a shared community cyberinfrastructure.
+	</td>
+	</tr>
 </table>
 
-<p>We plan to provide links to other reports from within DOE BER and relevant external reports.</p>
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/ESSWG_WorkshopReport-final.pdf"><img width="400" src="/reports/ESSWG_WorkshopReport-cover.png " border="2" /></a></td>
+	<td valign="center">
+	The report from a one day meeting, which was held in 2015, to explore approaches to building a community driven and shared cyberinfrastructure for Environmental System Science.
+	</td>
+	</tr>
+</table>
+
+<h1 id="doe-reports-connected-with-the-working-groups">DOE Reports Connected with the Working Groups</h1>
+
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/AI4CH4_Workshop_Report.pdf"><img width="400" src="/reports/AI4CH4_Workshop_Report-cover.jpg " border="2" /></a>
+	</td>
+	<td valign="center"> 
+	This report derives from the March 2023 Artificial Intelligence for the Methane Cycle (AI4CH4) virtual work-shop, co-organized by staff from the Earth and Environmental Systems Sciences Division (EESSD), within the U.S. Department of Energy Biological and Environmental Research program (BER), and computational ecologist Dr. Pamela Weisenhorn from Argonne National Laboratory. AI4CH4 provides a follow-up to the 2021 Artificial Intelligence for Earth System Predictability workshop series (ai4esp.org) co-organized by two DOE programs—BER and Advanced Scientific Computing Research (ASCR).
+	</td>
+	</tr>
+</table>
+
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/BERAC-Subcommittee-report-on-Unified-Data-May-2024.pdf"><img width="400" src="/reports/BERAC-Subcommittee-report-on-Unified-Data-May-2024-cover.jpg " border="2" /></a>
+	</td>
+	<td valign="center">
+	This report derives from a October 2022 request for information on the Biological and Environmental Research (BER) program within the U.S. Department of Energy (DOE) Office of Science which supports large-scale data generation efforts across its two divisions: Biological Systems Science and Earth and Environmental Systems Sciences. The review was presented at the Fall BERAC meeting in 2023 and helped to secure future funding.
+	</td>
+	</tr>
+</table>
+
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/AMBER_High_Res.pdf"><img width="400" src="/reports/AMBER_High_Res-cover.jpg " border="2" /></a>
+	</td>
+	<td valign="center"> 
+	This report derives from a joint virtual workshop on AI/ML for Bioenergy Research (AMBER) in August 2022. To identify the opportunities and challenges in the integration of artificial intelligence and machine learning (AI/ML) with automated experimentation, genomics, biosystems design, and bioprocessing technologies, particularly in bioenergy research. 
+	</td>
+	</tr>
+</table>
+
+<table class="report-table">
+  <colgroup>
+    <col />
+    <col />
+  </colgroup>
+	<tr>
+	<td>  <a href="/reports/EVS_AI4ESP_Executive_Summary.pdf"><img width="400" src="/reports/EVS_AI4ESP_Executive_Summary-cover.jpg " border="2" /></a>
+	</td>
+	<td valign="center"> 
+	In October 2021, the U.S. Department of Energy (DOE) welcomed participants to the Artificial Intelligence for Earth System Predictability (AI4ESP) Workshop, hosted by the Office of Biological and Environmental Research (BER)—Advanced Scientific Computing Research (ASCR).
+	<br /><br />
+	A distinguishing aspect of this workshop was the framing around BER’s “Model-Experimentation” (ModEx) integrative research process, which involves integrating observations, experiments, and measurements, performed in the field or laboratory, with model research that simulates these same processes.
+	</td>
+	</tr>
+</table>
+
+<p><strong>We plan to provide links to other reports from within DOE BER and relevant external reports.</strong></p>
 
 
 </div>
@@ -197,18 +303,24 @@ A one day meeting of the Executive Committee was held in 2016 to identify challe
         
             <footer class="footer">
     <div class="container">
-        
-            <div class="columns is-multiline">
-                
-            </div>
-        
 
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        
+        <div class="columns is-multiline">
+            
         </div>
+        
+        <p style="text-align:center;">
+            <!-- <a href="https://ideas-watersheds.github.io"><img src="/img/IDEAS_watershed-logo_blueText.png" alt="IDEAS-Watersheds" width="150"></a>
+            </p> -->
+        <div class="content is-small has-text-centered">
+            <p><a href="https://science.osti.gov/ber/Research/eessd">Earth and Environmental Systems Sciences Division</a> of the U.S. Department of Energy’s <a href="https://science.osti.gov/ber">Office of Biological and Environmental Research</a>.</p>
+       </div>
+
+        <!-- <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div> -->
     </div>
 </footer>
-
         
         <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts -->
 </body>

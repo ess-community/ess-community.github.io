@@ -43,75 +43,119 @@
     <body>
         
         <nav class="navbar is-primary " x-data="{ openNav: false }">
-    <div class="container">
-        <div class="navbar-brand">
-            <a href="/" class="navbar-item">
-                ESS_CIWG
-            </a>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
-            <div class="navbar-start">
-
-                
-                
-                    
-                    <a href="/about/" class="navbar-item ">About</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Working Groups</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/working-groups/data-management" class="navbar-item ">Data Management</a>
-                            
-                            <a href="/working-groups/integration" class="navbar-item ">Model Data Integration</a>
-                            
-                            <a href="/working-groups/software-engineering" class="navbar-item ">Software Engineering and Interoperabilty</a>
-                            
-                            <a href="/working-groups/computing-infrastructure" class="navbar-item ">Computing Infrastructure</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                    
-                    <a href="/events/" class="navbar-item ">Events</a>
-                    
-                
-                    
-                    <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="" class="navbar-link ">Community Resources</a>
-                        <div class="navbar-dropdown">
-                            
-                            <a href="/resources/reports" class="navbar-item ">Reports</a>
-                            
-                            <a href="/resources/webinars" class="navbar-item ">Webinars</a>
-                            
-                        </div>
-                    </div>
-                    
-                
-                
-            </div>
-
-            <!-- <div class="navbar-end">
-                <div class="navbar-item">
-                    <div class="buttons">
-                        <a href="mailto:moulton@lanl.gov" class="button is-light"><strong>Get Involved</strong></a>
-                    </div>
-                </div>
-            </div> -->
-
-        </div>
+  <div class="container">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item">
+        ESS_CIWG
+      </a>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu"
+         :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
-</nav>
 
+    <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+      <div class="navbar-start">
+
+        
+          
+            
+              <a href="/about/"
+                 class="navbar-item ">
+                About
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Working Groups
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/working-groups/data-management"
+                       class="navbar-item ">
+                      Data Management
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/integration"
+                       class="navbar-item ">
+                      Model Data Integration
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/software-engineering"
+                       class="navbar-item ">
+                      Software Engineering and Interoperability
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/computing-infrastructure"
+                       class="navbar-item ">
+                      Computing Infrastructure
+                    </a>
+
+                    
+                  
+                    <a href="/working-groups/ai-ml"
+                       class="navbar-item ">
+                      AI/ML
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+              <a href="/events/"
+                 class="navbar-item ">
+                Events
+              </a>
+            
+          
+            
+              <div class="navbar-item has-dropdown is-hoverable ">
+                <a href=""
+                   class="navbar-link ">
+                  Community Resources
+                </a>
+
+                <div class="navbar-dropdown">
+                  
+                    <a href="/resources/reports"
+                       class="navbar-item ">
+                      Reports
+                    </a>
+
+                    
+                  
+                    <a href="/resources/webinars"
+                       class="navbar-item ">
+                      Webinars
+                    </a>
+
+                    
+                  
+                </div>
+              </div>
+            
+          
+        
+
+      </div>
+    </div>
+  </div>
+</nav>
         
             <section class="hero  is-small  is-bold is-primary"  style="background: url('/img/ess-ciwg-banner.png') no-repeat center center; background-size: cover;" >
     <div class="hero-body ">
@@ -151,11 +195,49 @@
 
 <p><br /><br /> <strong>OLDER POSTS</strong></p>
 
- 		<a href="/highlight/2024/04/12/april15-meeting/">Annual Meeting, April 15, 2024</a> Published on <time datetime="2024-04-12T00:00:00-06:00">April 12, 2024</time><br />
+<p><strong>Data Management Posts</strong></p>
 
- 		<a href="/highlight/2023/05/15/april15-meeting/">Annual Meeting, May 15, 2023</a> Published on <time datetime="2023-05-15T00:00:00-06:00">May 15, 2023</time><br />
+<ul>
+  <li>
+    <p><a href="/highlight/2025/07/11/dm-fy25-q3-meeting/">Data Management FY25 Q3 Quarterly Meeting</a> — <time datetime="2025-07-11T00:00:00-06:00">July 11, 2025</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2025/05/22/dm-fy25-q2-meeting/">Data Management FY25 Q2 Quarterly Meeting</a> — <time datetime="2025-05-22T00:00:00-06:00">May 22, 2025</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2025/02/27/dm-fy25-q1-meeting/">Data Management FY25 Q1 Quarterly Meeting</a> — <time datetime="2025-02-27T00:00:00-07:00">February 27, 2025</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2024/11/14/dm-fy24-q4-meeting/">Data Management FY24 Q4 Quarterly Meeting</a> — <time datetime="2024-11-14T00:00:00-07:00">November 14, 2024</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2024/08/22/dm-fy24-q3-meeting/">Data Management FY24 Q3 Quarterly Meeting</a> — <time datetime="2024-08-22T00:00:00-06:00">August 22, 2024</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2024/05/23/dm-fy24-q2-meeting/">Data Management FY24 Q2 Quarterly Meeting</a> — <time datetime="2024-05-23T00:00:00-06:00">May 23, 2024</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2024/02/22/dm-fy24-q1-meeting/">Data Management FY24 Q1 Quarterly Meeting</a> — <time datetime="2024-02-22T00:00:00-07:00">February 22, 2024</time></p>
+  </li>
+</ul>
 
- 		<a href="/highlight/2022/05/18/may23-meeting/">Annual Meeting, May 23, 2022</a> Published on <time datetime="2022-05-18T00:00:00-06:00">May 18, 2022</time><br />
+<p><strong>Annual Meeting Posts</strong></p>
+
+<ul>
+  <li>
+    <p><a href="/highlight/2024/04/12/april15-meeting/">Annual Meeting, April 15, 2024</a> — <time datetime="2024-04-12T00:00:00-06:00">April 12, 2024</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2023/05/15/april15-meeting/">Annual Meeting, May 15, 2023</a> — <time datetime="2023-05-15T00:00:00-06:00">May 15, 2023</time></p>
+  </li>
+  <li>
+    <p><a href="/highlight/2022/05/18/may23-meeting/">Annual Meeting, May 23, 2022</a> — <time datetime="2022-05-18T00:00:00-06:00">May 18, 2022</time></p>
+  </li>
+</ul>
+
+<p><strong>Other Posts</strong></p>
+
+<p><em>No other posts.</em></p>
 
 
 </div>
@@ -197,18 +279,24 @@
         
             <footer class="footer">
     <div class="container">
-        
-            <div class="columns is-multiline">
-                
-            </div>
-        
 
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        
+        <div class="columns is-multiline">
+            
         </div>
+        
+        <p style="text-align:center;">
+            <!-- <a href="https://ideas-watersheds.github.io"><img src="/img/IDEAS_watershed-logo_blueText.png" alt="IDEAS-Watersheds" width="150"></a>
+            </p> -->
+        <div class="content is-small has-text-centered">
+            <p><a href="https://science.osti.gov/ber/Research/eessd">Earth and Environmental Systems Sciences Division</a> of the U.S. Department of Energy’s <a href="https://science.osti.gov/ber">Office of Biological and Environmental Research</a>.</p>
+       </div>
+
+        <!-- <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div> -->
     </div>
 </footer>
-
         
         <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts -->
 </body>
