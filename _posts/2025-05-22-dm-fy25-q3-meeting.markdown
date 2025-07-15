@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-Topic: What is AI-Ready Data?
-<br>Date/Time: Thursday, July 11, 12-1pm PT/3-4pm ET
+Topic: ML/LLM/AI/Agentic-AI Working Group discussion
+<br>Date/Time: Thursday, May 22, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 

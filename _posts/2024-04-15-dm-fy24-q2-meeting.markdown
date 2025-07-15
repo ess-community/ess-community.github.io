@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY24 Q3 Quarterly Meeting"
-date:   2024-08-22
+title:  "Data Management FY24 Q2 Quarterly Meeting"
+date:   2024-04-15
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: Tools for Implementing Reporting Formats
-<br>Date/Time: Thursday, Aug 22, 12-1pm PT/3-4pm ET
+2024 Second Quarterly Meeting  
+<br>Date/Time: Thursday, April 15, 12-1 pm PT / 3-4 pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 

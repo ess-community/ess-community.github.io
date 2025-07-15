@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY24 Q2 Quarterly Meeting"
-date:   2024-05-23
+title:  "Data Management FY25 Q1 Quarterly Meeting"
+date:   2024-11-14
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-2024 Second Quarterly Meeting  
-<br>Date/Time: Thursday, May 23, 12-1 pm PT / 3-4 pm ET
+Title: ESS-DIVE Annual Data Workshop: Needs for ESS Data Discovery and Use
+<br>Date/Time: Thursday, November 14, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 

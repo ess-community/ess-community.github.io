@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Management FY25 Q1 Quarterly Meeting"
+title:  "Data Management FY25 Q2 Quarterly Meeting"
 date:   2025-02-27
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: ESS-DIVE Annual Data Workshop: Needs for ESS Data Discovery and Use
-<br>Date/Time: Thursday, Feb 27, 12-1pm PT/3-4pm ET
+Title: Experiences & Improvements to Archiving Model Data Products
+<br>Date/Time: Thursday, February 27, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 

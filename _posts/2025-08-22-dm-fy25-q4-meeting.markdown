@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY25 Q2 Quarterly Meeting"
-date:   2025-05-22
+title:  "Data Management FY25 Q4 Quarterly Meeting"
+date:   2025-07-12
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: Experiences & Impprovements to Archiving Model Data Products
-<br>Date/Time: Thursday, May 22, 12-1pm PT/3-4pm ET
+Topic: What is AI-Ready Data?
+<br>Date/Time: Thursday, August 28, 12-1pm PT/3-4pm ET
 
 Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 
