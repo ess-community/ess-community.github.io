@@ -9,10 +9,10 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: Experiences & Improvements to Archiving Model Data Products
-<br>Date/Time: Thursday, February 27, 12-1pm PT/3-4pm ET
-
-Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
+**Topic:** Experiences & Improvements to Archiving Model Data Products<br>
+**Date:** Thursday, February 27<br>
+**Time:** 12-1pm PT/3-4pm ET<br><br>
+*Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.*
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}

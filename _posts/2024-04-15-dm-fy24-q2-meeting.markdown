@@ -9,10 +9,11 @@ is_series: true
 series_title: "Post"
 ---
 
-2024 Second Quarterly Meeting  
-<br>Date/Time: Thursday, April 15, 12-1 pm PT / 3-4 pm ET
+**Topic:** BERAC Unified Data Report & ESS-DIVE proposal input<br>
+**Date:** Thursday, April 15<br>
+**Time:** 12-1pm PT/3-4pm ET<br><br>
+*Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.*
 
-Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}
