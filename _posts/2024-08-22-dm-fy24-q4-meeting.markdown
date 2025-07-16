@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY25 Q2 Quarterly Meeting"
-date:   2025-05-22
+title:  "Data Management FY24 Q4 Quarterly Meeting"
+date:   2024-08-22
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,10 +9,11 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: Experiences & Impprovements to Archiving Model Data Products
-<br>Date/Time: Thursday, May 22, 12-1pm PT/3-4pm ET
+**Topic:** Tools for Implementing Reporting Formats (continued)<br>
+**Date:** Thursday, August 22<br>
+**Time:** 12-1pm PT/3-4pm ET<br><br>
+*Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.*
 
-Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}
