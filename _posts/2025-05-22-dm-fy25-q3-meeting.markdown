@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY25 Q1 Quarterly Meeting"
-date:   2025-02-27
+title:  "Data Management FY25 Q3 Quarterly Meeting"
+date:   2025-07-11
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,10 +9,11 @@ is_series: true
 series_title: "Post"
 ---
 
-Title: ESS-DIVE Annual Data Workshop: Needs for ESS Data Discovery and Use
-<br>Date/Time: Thursday, Feb 27, 12-1pm PT/3-4pm ET
+**Topic:** ML/LLM/AI/Agentic-AI Working Group discussion<br>
+**Date:** Thursday, May 22<br>
+**Time:** 12-1pm PT/3-4pm ET<br><br>
+*Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.*
 
-Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}

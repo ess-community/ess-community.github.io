@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Management FY24 Q1 Quarterly Meeting"
-date:   2024-02-22
+title:  "Data Management FY24 Q2 Quarterly Meeting"
+date:   2024-04-15
 hero_image: /img/ess-ciwg-banner.png
 hero_height: is-small
 categories: highlight
@@ -9,8 +9,8 @@ is_series: true
 series_title: "Post"
 ---
 
-**Topic:** NMDC submission portal & EMSL metadata template<br>
-**Date:** Thursday, Feb 22<br>
+**Topic:** BERAC Unified Data Report & ESS-DIVE proposal input<br>
+**Date:** Thursday, April 15<br>
 **Time:** 12-1pm PT/3-4pm ET<br><br>
 *Contact co-leads [Terri or Danielle](/working-groups/data-management) if you are not on the DM email list and want to attend.*
 
