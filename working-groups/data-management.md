@@ -58,6 +58,9 @@ the 4th Thursday at 12:00 PT / 3:00 ET (unless rescheduled due to holidays/confl
 Past meeting topic and session leaders:
 
 ### FY2025
+Q4: What is AI-Ready Data?
+<br>Douglas Rao (NOAA National Centers for Environmental Information)
+
 Q3: ML/LLM/AI/Agentic-AI Working Group discussion
 <br>David Moulton (LANL)
 
