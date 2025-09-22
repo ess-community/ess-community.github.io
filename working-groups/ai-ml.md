@@ -35,9 +35,9 @@ The formation of this working group underscores the commitment of the leads to e
 <em>Argonne National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/li.png" alt="Phong li" width="150" height="150"></td>
-<td valign="top"><strong>Phong Li</strong><br />
-<a href = "mailto: levuvietphong@gmail.com">levuvietphong@gmail.com</a><br />
+<td><img class="alignleft" src="/img/people/le.png" alt="Phong Le" width="150" height="150"></td>
+<td valign="top"><strong>Phong Le</strong><br />
+<a href = "mailto: lepv@ornl.gov">lepv@ornl.gov</a><br />
 <em>Oak Ridge National Laboratory</em></td>
 </tr>
 <tr>
