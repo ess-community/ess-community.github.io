@@ -57,6 +57,10 @@ the 4th Thursday at 12:00 PT / 3:00 ET (unless rescheduled due to holidays/confl
 
 Past meeting topic and session leaders:
 
+### FY2026
+Q1: What is AI-Ready Data? Part 2
+<br>Charuleka Varadharajan and ESS-DIVE team (LBNL)
+
 ### FY2025
 Q4: What is AI-Ready Data?
 <br>Douglas Rao (NOAA National Centers for Environmental Information)
