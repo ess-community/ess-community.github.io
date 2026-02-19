@@ -60,6 +60,20 @@ hero_height: is_fullheight
     <col>
   </colgroup>
 	<tr>
+	<td>  <a href="reports/Revised_AI4ESS_Whitepaper_20251010_FINAL_v2.pdf"><img width="400" src="reports/AI4ESS-cover.jpg" border=2></a>
+	</td>
+	<td valign="center"> 
+	This white paper derives from the August 2025 Artificial Intelligence for ESS (AI4ESS) Roundtable. This white paper highlights opportunities to leverage AI in ESS and presents an approach to connect process-based science with artificial intelligence (AI) to accelerate discovery while preserving mechanistic fidelity.
+	</td>
+	</tr>
+</table>
+
+<table class="report-table">
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+	<tr>
 	<td>  <a href="/reports/AI4CH4_Workshop_Report.pdf"><img width="400" src="/reports/AI4CH4_Workshop_Report-cover.jpg " border=2></a>
 	</td>
 	<td valign="center"> 
