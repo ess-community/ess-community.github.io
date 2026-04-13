@@ -78,6 +78,7 @@ hero_height: is_fullheight
   <div class="grid-item1">
     <h3> Working Group Annual Meetings </h3>
     <ul>
+      <li> <a href="/events/working_group_meeting_2026">2026</a> </li>
       <li> <a href="/events/working_group_meeting_2025">2025</a> </li>
       <li> <a href="/events/working_group_meeting_2024">2024</a> </li>
       <li> <a href="/events/working_group_meeting_2023">2023</a> </li>
