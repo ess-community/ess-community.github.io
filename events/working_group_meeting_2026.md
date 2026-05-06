@@ -143,7 +143,6 @@ The theme this year will focus on “AI-Ready Data and Models”. This free and 
       workflows are possible.
       <ul>
         <li> Sundar Niroula (PNNL), Increasing the Value of Collected Data with Time Series Foundation Models. </li>
-        <li> Dan Lu (ORNL), ORBIT:  AI foundation model for Earth system prediction. </li>
         <li> Roelof Versteeg (Subsurface Insights), Exposing Fused Heterogeneous Data to Agentic AI through Tools, Skills, and an MCP Server and thoughts on orchestration. </li>
         <li> Jinyun Tang (LBNL), AI-enabled data integration into ecosystem models, the EcoSIM-co-scientist. </li>
         <li> Ethan Coon (ORNL), AI assisted coding with Agentic Coding Tools to expand Watershed Workflow’s capabilities, scripting, and documentation. </li>
