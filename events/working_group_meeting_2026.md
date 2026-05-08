@@ -104,7 +104,7 @@ The theme this year will focus on “AI-Ready Data and Models”. This free and 
       Moderator: Terri Velliquette
     <ul>
       <li> Is AI-Ready data really a thing? What is it? (Terri Velliquette) </li>
-      <li> AI leveling: A2A, MCP, skills (Roelof Versteeg) </li>
+      <li> Demystifying jargon for AI-assisted science (Roelof Versteeg) </li>
       <li> Where is DOE at? </li>
       <ul>
         <li> ModCon & AmSC (Shreyas Cholia) </li>
