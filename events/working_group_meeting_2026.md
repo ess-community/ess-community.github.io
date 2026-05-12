@@ -47,7 +47,7 @@ The theme this year will focus on “AI-Ready Data and Models”. This free and 
 
 ## Agenda
 
-### Day 1: May 12, 2026.
+### Day 1: May 12, 2026 (All Times are PDT).
 
 <div>
 <table style="width: 100%">
