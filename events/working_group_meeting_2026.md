@@ -175,7 +175,7 @@ The theme this year will focus on “AI-Ready Data and Models”. This free and 
 
 For a detailed agenda of the Day 2 (May 13) meeting, you can visit the [ESS-DIVE Annual Meeting events page](https://ess-dive.lbl.gov/annual-data-workshop/)
 
-### Day 3: May 13, 2026.
+### Day 3: May 14, 2026.
 
 For a detailed agenda of the Day 3 (May 14) meeting, you can visit the [ESS-DIVE Annual Meeting events page](https://ess-dive.lbl.gov/annual-data-workshop/)
 
