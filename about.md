@@ -103,9 +103,9 @@ This working group will ensure that we are addressing the increasingly diverse c
 <em>Oak Ridge National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/chen.jpeg" alt="Xingyuan Chen" width="150" height="150"></td>
-<td valign="top"><strong>Xingyuan Chen</strong><br />
-<a href = "mailto: Xingyuan.Chen@pnnl.gov">Xingyuan.Chen@pnnl.gov</a><br />
+<td><img class="alignleft" src="/img/people/vanessa.jpg" alt="Vanessa Garayburu-Caruso" width="150" height="150"></td>
+<td valign="top"><strong>Vanessa Garayburu-Caruso</strong><br />
+<a href = "mailto: Vanessa.Garayburu-Caruso@pnnl.gov">vanessa.garayburu-caruso@pnnl.gov</a><br />
 <em>Pacific Northwest National Laboratory</em></td>
 </tr>
 </tbody>
@@ -162,9 +162,9 @@ This working group will ensure that we are addressing the increasingly diverse c
 <em>Argonne National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/gomez.jpg" alt="Jesus Gomez" width="150" height="150"></td>
-<td valign="top"><strong>Jesus Gomez</strong><br />
-<a href = "mailto: gomezvelezjd@ornl.gov">gomezvelezjd@ornl.gov</a><br />
+<td><img class="alignleft" src="/img/people/le.png" alt="Phong Le" width="150" height="150"></td>
+<td valign="top"><strong>Phong Le</strong><br />
+<a href = "mailto: lepv@ornl.gov">lepv@ornl.gov</a><br />
 <em>Oak Ridge National Laboratory</em></td>
 </tr>
 <tr>
@@ -185,11 +185,11 @@ This working group will ensure that we are addressing the increasingly diverse c
 | Xingyuan Chen (PNNL)                  |
 | Danielle Christianson (LBNL)          |
 | Dipankar Dwivedi (LBNL)               |
-| Jesus Gomez (ORNL)                    |
+| Vanessa Garayburu-Caruso (PNNL)       |
 | Forrest Hoffman (ORNL)                |
+| Phong Le (ORNL)                       |
 | Greg Lemieux (LBNL)                   |
-| David Moulton (Chair; LANL)            |
-| Eric Pierce (ORNL)                    | 
+| David Moulton (Chair; LANL)           |
 | Terri Velliquette (ORNL)              |
 | Roelof Versteeg (Subsurface Insights) |
 | Pamela Weisenhorn (ANL)               |
@@ -203,7 +203,10 @@ This working group will ensure that we are addressing the increasingly diverse c
 | Dean Williams (LLNL)          |
 | Deb Agarwal (LBNL)            |
 | Stan Wullschleger (ORNL)      |
+| Eric Pierce (SRNL)            |
 | Ethan Coon (ORNL)             |
+| Jesus Gomez (ORNL)            |
+
 
 
 
