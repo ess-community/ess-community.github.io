@@ -46,9 +46,9 @@ questionnaire. A summary is provided figure MDI.
 <em>Oak Ridge National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="/img/people/chen.jpeg" alt="Xingyuan Chen" width="150" height="150"></td>
-<td valign="top"><strong>Xingyuan Chen</strong><br />
-<a href = "mailto: Xingyuan.Chen@pnnl.gov">Xingyuan.Chen@pnnl.gov</a><br />
+<td><img class="alignleft" src="/img/people/vanessa.jpeg" alt="Vanessa Garayburu-Caruso" width="150" height="150"></td>
+<td valign="top"><strong>Vanessa Garayburu-Caruso</strong><br />
+<a href = "mailto: vanessa.garayburu-caruso@pnnl.gov">vanessa.garayburu-caruso@pnnl.gov</a><br />
 <em>Pacific Northwest National Laboratory</em></td>
 </tr>
 </tbody>
