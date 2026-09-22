@@ -8,13 +8,13 @@ categories: highlight
 is_series: true
 series_title: "Post"
 ---
-
-**Topic:** ESS CIWG Model-Data Integration Webinar: Lessons from NGEE Arctic
+**Topic:** ESS CIWG Model-Data Integration Webinar: Lessons from NGEE Arctic <br>
+**Date:** Thursday, September 17th, 2026<br>
+**Time:** 12:00–1:30 p.m. PT / 3:00–4:30 p.m. ET<br>
 
 The ESS Cyberinfrastructure Model-Data Integration Working Group is hosting a webinar with Ben Sulman, Verity Salmon, and Jitu Kumar from NGEE Arctic. They will share lessons from modeling, field measurements, computational workflows, data integration, and AI/ML applications. The presentations will be followed by an open discussion on common challenges across projects and where shared examples, guidance, or future working-group activities could help.
 <br>
-**Date:** Thursday, September 17th, 2026<br>
-**Time:** 12:00–1:30 p.m. PT / 3:00–4:30 p.m. ET<br><br>
+
 *Contact co-leads [Vanessa or Forrest](/working-groups/integration) if you are not on the DM email list and want to attend.*
 
 <br><br> **OLDER POSTS**
